@@ -2,7 +2,7 @@
 
 Vax-trax is a blog web site where users can track their progress for the vaccination process of the Covid-19 virus.  
 ## Developers
-Sarah DeMercurio: Front-end and UI design
+Sarah DeMercurio: Front-end and UI design <br>
 Diego Romero: Front-end
 Anthony Spyker: Back-end
 Jacob Feitler: Back-end
